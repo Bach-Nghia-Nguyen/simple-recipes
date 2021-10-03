@@ -1,3 +1,5 @@
 @import url("./global.css");
 
 @import url("./stylesheets/navigation_bar.css");
+@import url("./stylesheets/page.css");
+@import url("./stylesheets/footer.css");
